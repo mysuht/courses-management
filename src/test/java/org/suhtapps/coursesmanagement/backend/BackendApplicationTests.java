@@ -1,4 +1,4 @@
-package org.suhtapps.backend;
+package org.suhtapps.coursesmanagement.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
